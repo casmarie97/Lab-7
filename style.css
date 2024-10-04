@@ -1,0 +1,41 @@
+td, th {
+	border: 2px solid white;
+  }
+	
+	.squared {
+		position: relative;
+		bottom: 5px;
+		font-size: .7em;
+	}
+	
+	body {
+		background-image: url(img/space-bckgrnd.jpg);
+		font-family: Arial, Helvetica, serif;
+		font-weight: 700;
+	}
+  
+	#planets {
+		margin: 0 auto;
+		background-color: black;
+		color: white;
+	}
+	
+	h1 {
+		text-align: center;
+		font-family: Arial, Helvetica, serif;
+		font-size: 40px;
+		color: white;
+	}
+	
+	th {
+		font-weight: 700;
+		padding-top: 8px;
+		padding-bottom: 8px;
+		font-size: 1.25em;
+	}
+
+td {
+	padding-top: 6px;
+	padding-bottom: 6px;
+	text-align: center;
+}
